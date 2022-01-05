@@ -54,7 +54,7 @@ const Login = () => {
                     <span className='display-6'>Sign In with Google</span>
                 </button>
                 {error && <p className='text-danger mt-5'>{error}</p>}
-                <p className='mt-5 text-center'>Don't have an account ? <NavLink to="/registration">Sign up</NavLink></p>
+                <p className='mt-5 text-center'>Don't have an account ? <NavLink to="/registration">Register</NavLink></p>
                 
             </div>
         </div>
