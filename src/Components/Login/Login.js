@@ -41,7 +41,7 @@ const Login = () => {
                         </Form.Text>
                     </Form.Group>
                     <button className='d-block btn btn-primary w-100 rounded-pill mt-5' type="submit">
-                        Sign IN
+                        Log In
                     </button>
                 </Form>
                 <h4 className='text-center my-5'>----------------------OR------------------</h4>
@@ -54,7 +54,7 @@ const Login = () => {
                     <span className='display-6'>Sign In with Google</span>
                 </button>
                 {error && <p className='text-danger mt-5'>{error}</p>}
-                <p className='mt-5 text-center'>Don't have an account ? <NavLink to="/registration">Register</NavLink></p>
+                <p className='mt-5 text-center'>Don't have an account ? <NavLink to="/registration">Sign UP</NavLink></p>
                 
             </div>
         </div>
