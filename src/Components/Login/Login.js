@@ -41,7 +41,7 @@ const Login = () => {
                         </Form.Text>
                     </Form.Group>
                     <button className='d-block btn btn-primary w-100 rounded-pill mt-5' type="submit">
-                        Log In
+                        Sign In
                     </button>
                 </Form>
                 <h4 className='text-center my-5'>----------------------OR------------------</h4>
