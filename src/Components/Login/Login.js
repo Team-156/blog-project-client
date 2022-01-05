@@ -34,7 +34,7 @@ const Login = () => {
                         <Form.Control type="email" placeholder="Enter email" name="email" onBlur={handleLoginData} />
                     </Form.Group>
                     <Form.Group className="mb-3" controlId="formBasicPassword">
-                        <Form.Label>Password</Form.Label>
+                        <Form.Label>Your Password</Form.Label>
                         <Form.Control type="password" placeholder="Password" name="password" onBlur={handleLoginData} />
                         <Form.Text className='text-end d-block mt-2'>
                             Forget password ? Wan't to <span role='button' className='text-decoration-underline text-primary'>reset password</span> ?
