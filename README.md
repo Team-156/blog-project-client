@@ -1,6 +1,8 @@
 ## Blog-world-client
 Live Site (https://newsblogworld.netlify.app
 ),
+For admin login email: programminghero@gmail.com
+password: 123456
 
 ## Available Scripts
 *  This is Blog world client Site.
