@@ -23,7 +23,7 @@ const ManagePost = () => {
                     <div id='table-container'>
                         <table>
                             <tr>
-                                <th>Image</th>
+                                <th>image</th>
                                 <th>Name</th>
                                 <th>Price</th>
                                 <th>Status</th>
